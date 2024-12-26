@@ -1,5 +1,5 @@
-title: VibyJocke
-description: WIP
+title: Joakim Lahtinen
+description: Tech and software development
 remote_theme: piazzai/cvless
 plugins:
   - jekyll-remote-theme
@@ -12,3 +12,7 @@ plugins:
 social:
   linkedin: joakim-lahtinen-67597046
   github: VibyJocke
+
+author:
+  name: Joakim Lahtinen
+photo: cv_bw_cropped_square.jpg
