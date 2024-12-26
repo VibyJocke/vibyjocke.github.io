@@ -1,9 +1,12 @@
 title: Joakim Lahtinen
 description: Tech and software development
+taglong: Tech and software development
+tagshort: Tech and software development
+
 remote_theme: piazzai/cvless
+url: https://vibyjocke.github.io
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
   - jekyll-gist
   - jekyll-paginate-v2
   - jekyll-seo-tag
