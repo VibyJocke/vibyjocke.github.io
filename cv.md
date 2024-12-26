@@ -5,8 +5,6 @@ title: CV
 
 # Curriculum Vitæ
 
-{% include contact.html %}
-
 ## Introduction
 I'm an experienced engineer that delivers in any part of the stack. I have a strong focus on craftsmanship and building the right things, and enthusiastically provide technical and collaborative leadership. With years of experience of developing distributed systems and SaaS solutions, I help accelerating organizational transformation and product modernization.
 
