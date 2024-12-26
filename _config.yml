@@ -1,10 +1,9 @@
+title: VibyJocke
+description: WIP
 remote_theme: piazzai/cvless
 plugins:
 - jekyll-remote-theme
-title: VibyJocke
-description: WIP
 
 social:
-  linkedin: https://www.linkedin.com/in/joakim-lahtinen-67597046/
-  medium: username
-  github: username
+  linkedin: joakim-lahtinen-67597046
+  github: VibyJocke
