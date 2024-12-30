@@ -21,7 +21,7 @@ I'm an experienced engineer that delivers in any part of the stack. I have a str
 
 ## Experience
 
-### Resurs Bank _(Dec 2024 - ongoing)_
+### 💳 Resurs Bank _(Dec 2024 - ongoing)_
 
 Starting a new Stockholm based team, with the goal of building the next generation of autonomous development teams within the bank, while delivering functionality on an AWS native platform.
 
